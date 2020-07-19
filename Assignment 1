@@ -1,0 +1,26 @@
+1. What is your understanding of Blockchain?
+
+     Blockchain can be described as a datastructure that holds transactional records and while ensuring security, transparency, and decentralization. It is a mix technology of distributed database and cryptography where information is verifiable, unchangeable, tamper-proof and immutable.A blockchain is a distributed ledger that is completely open to any and everyone on the network.Once an information is stored on a blockchain, it is extremely difficult to change or alter it.
+
+2. What is the core problem blockchain trying to solve?
+   a. Data Security
+   b. Decentralization
+
+3. What are the few features which blockchain will give you?
+   a. immutability and tamper detection 
+   b. data protection
+   c. distributed ledger technology
+   d. enhanced security
+   e. verifiability
+   f. unchangeable
+
+4. What all things does a Blockchain contain?
+   a. block number 
+   b. transaction record
+   c. mining key
+   d. previous block signature
+
+5. How is the verifiability of blockchain is attained?
+
+      The verifiability of blockchain can be attained using current fingerprint of a block which is the combination of previous fingerprint and data.
+current fingerprint = previous fingerprint + data
